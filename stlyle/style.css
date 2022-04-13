@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+
+/*header and footer*/
+
+header,
+footer {
+    min-width: 100%;
+    min-height: 60vh;
+    background-color: orangered;
+}
+
+
+/*nav*/
+
+nav {
+    margin-top: auto;
+    padding-left: 85%;
+    background-color: yellow;
+    text-indent: 25px;
+}
+
+
+/*Nav list*/
+
+ul {
+    display: inline-flex;
+    text-indent: 25px;
+}
+
+main {
+    background-color: orangered;
+    height: 50%;
+}
